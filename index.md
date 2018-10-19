@@ -5,3 +5,4 @@
 layout: home
 ---
 
+this is just the feed. consider <a href="{{ "/feed.xml" | relative_url }}">subscribing</a>

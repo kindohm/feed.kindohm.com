@@ -1,0 +1,6 @@
+---
+layout: post
+title: please consider subscribing
+---
+
+point your rss reader to <a href="{{ "/feed.xml" | relative_url }}">feed.xml</a>

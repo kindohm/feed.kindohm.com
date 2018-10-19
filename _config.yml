@@ -16,7 +16,7 @@
 title: kindohm feed
 email: mike@kindohm.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is just the Kindohm RSS feed. For links, releases, appearances, etc, visit http://kindohm.com.
+  This is the Kindohm RSS feed. For links, releases, appearances, etc, visit http://kindohm.com.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://feed.kindohm.com' # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
